@@ -1,2 +1,2 @@
 # Arguments
-Typesafe CLI arguments parser with all the bells and whistles 
+A typesafe CLI argument parser, heavily inspired (copied?) from the one in Swift Package Manager
